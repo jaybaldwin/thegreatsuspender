@@ -1,7 +1,7 @@
 {
   "name": "__MSG_ext_extension_name__",
   "description": "__MSG_ext_extension_description__",
-  "version": "7.1.8",
+  "version": "1.0.0",
   "default_locale": "en",
   "permissions": [
     "tabs",
@@ -14,7 +14,7 @@
     "https://*/*",
     "file://*/*",
     "chrome://favicon/*",
-    "https://greatsuspender.github.io/",
+    "https://github.com/jaybaldwin/thegreatsuspender",
     "contextMenus",
     "cookies"
   ],

@@ -1,10 +1,16 @@
 /*global chrome */
 /*
+* The Great Suspender Fork
+ * Copyright (C) 2021 Jay Baldwin
+ * Available under GNU GENERAL PUBLIC LICENSE v2
+ * http://github.com/jaybaldwin/thegreatsuspender
+ * 
+ * FORK OF:
+ * 
  * The Great Suspender
  * Copyright (C) 2017 Dean Oemcke
  * Available under GNU GENERAL PUBLIC LICENSE v2
  * http://github.com/greatsuspender/thegreatsuspender
- * ლ(ಠ益ಠლ)
 */
 (function() {
   'use strict';

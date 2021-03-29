@@ -24,7 +24,8 @@ var gsAnalytics = function() {
         resolve();
       }
       try {
-        ga('create', 'UA-167314577-2', 'auto');
+        // TODO leverage GoogleAnalytics account?
+        //ga('create', 'UA-167314577-2', 'auto');
         ga('set', 'checkProtocolTask', function() {});
         ga('require', 'displayfeatures');
       } catch (e) {
@@ -197,7 +198,8 @@ function loadGoogleAnalytics(i, s, o, g, r, a, m) {
 }
 
 function init() {
-  if (!gsStorage.getOption('trackingOptOut')) {
+  // TODO fix hardcoded the escaping of tracking
+  if (!gsStorage.getOption('trackingOptOut') || false) {
     loadGoogleAnalytics(
       window,
       document,

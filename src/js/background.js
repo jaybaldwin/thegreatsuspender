@@ -1,10 +1,16 @@
 /* global gsStorage, gsChrome, gsIndexedDb, gsUtils, gsFavicon, gsSession, gsMessages, gsTabSuspendManager, gsTabDiscardManager, gsAnalytics, gsTabCheckManager, gsSuspendedTab, chrome, XMLHttpRequest */
 /*
+* The Great Suspender Fork
+ * Copyright (C) 2021 Jay Baldwin
+ * Available under GNU GENERAL PUBLIC LICENSE v2
+ * http://github.com/jaybaldwin/thegreatsuspender
+ * 
+ * FORK OF:
+ * 
  * The Great Suspender
  * Copyright (C) 2017 Dean Oemcke
  * Available under GNU GENERAL PUBLIC LICENSE v2
  * http://github.com/greatsuspender/thegreatsuspender
- * ༼ つ ◕_◕ ༽つ
 */
 var tgs = (function() {
   // eslint-disable-line no-unused-vars
