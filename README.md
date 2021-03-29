@@ -6,7 +6,7 @@
 
 If you have suggestions or problems using the extension, please [submit a bug or a feature request](https://github.com/jaybaldwin/thegreatsuspender/issues/). For other enquiries you can email me at greatsuspender@gmail.com.
 
-**If you have lost tabs from your browser:** I have written a guide for how to recover your lost tabs [here](https://github.com/deanoemcke/thegreatsuspender/issues/526
+**If you have lost tabs from your browser:** I have written a guide for how to recover your lost tabs [here](https://github.com/jaybaldwin/thegreatsuspender/issues/526
 ).
 
 ### Chrome Web Store
@@ -15,7 +15,7 @@ The Great Suspender is [available via the official Chrome Web Store](https://chr
 
 Please note that the webstore version may be behind the latest version here. That is because I try to keep webstore updates down to a minimum due to their [disruptive effect](https://github.com/jaybaldwin/thegreatsuspender/issues/526).
 
-For more information on the permissions required for the extension, please refer to this gitHub issue: (https://github.com/greatsuspender/thegreatsuspender/issues/213)
+For more information on the permissions required for the extension, please refer to this gitHub issue: (https://github.com/jaybaldwin/thegreatsuspender/issues/213)
 
 ### Install as an extension from source
 
